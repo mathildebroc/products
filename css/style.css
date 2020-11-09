@@ -1,0 +1,69 @@
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/home.css");
+@import url("components/image-hp.css");
+@import url("components/list-inline.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Arial';
+	font-size: 18px;
+	font-weight: lighter;
+	margin: 0px auto;
+	background-size: cover;
+	background-position: center;
+}
+
+h1,h2,h3{
+	font-family: Arial
+	font-weight: lighter;
+	font-weight: bold 
+	margin: 0px auto;
+}
+
+h1{
+	letter-spacing: 10px;
+	font-size: 20px;
+	text-align: center;
+}
+
+h2{
+	margin-left: 120px;
+
+
+
+}
+
+p {
+	flex-basis: 600px
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 20px;
+}
+
+.list-inline i {
+	font-size: 25px;
+	color: 40798C;
+}
+
+
+
+
+
+
